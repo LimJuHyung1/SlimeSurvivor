@@ -37,3 +37,16 @@
 > ![ppt10](Images/10.png)
 > ![ppt11](Images/11.png)
 > ![ppt12](Images/12.png)
+- - -
+# 스킬 소개
+> ## 아이스 스피어
+> ![Ice](Images/Ice.gif)
+> <br>
+> ## 힐
+> ![Heel](Images/Heel.gif)
+> <br>
+> ## 라이트 스트라이크
+> ![Light](Images/Light.gif)
+> <br>
+> ## 슬래쉬
+> ![Slash](Images/Slash.gif)
